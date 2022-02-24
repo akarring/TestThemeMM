@@ -62,8 +62,11 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:a.karring@gmail.com"
     - label: "LinkedIn"
-      icon: "fa fa-linkedin"
+      icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/ann-karring/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -75,7 +78,7 @@ author:
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fa fa-linkedin"
+      icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/ann-karring/""
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
