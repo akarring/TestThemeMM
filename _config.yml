@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Ann Karring"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "This is me Test"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
