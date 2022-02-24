@@ -63,7 +63,7 @@ author:
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "LinkedIn"
-      icon: "fab fa fa-linkedin"
+      icon: "fa fa-linkedin"
       url: "https://www.linkedin.com/in/ann-karring/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -75,7 +75,7 @@ author:
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fab fa fa-linkedin"
+      icon: "fa fa-linkedin"
       url: "https://www.linkedin.com/in/ann-karring/""
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
