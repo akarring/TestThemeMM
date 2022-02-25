@@ -8,8 +8,7 @@ values:
 
 ## Ann Karring
 
-|Adresse: |Marinavej 8 |
-|----|---|
+|Adresse: |Marinavej 8 </br> 8660 Skanderborg |
 | |8660 Skanderborg|
 | |Denmark|
 |Tlf.:|22261052|
