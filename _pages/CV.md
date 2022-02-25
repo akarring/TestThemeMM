@@ -11,8 +11,6 @@ toc_sticky: true
 
 ## Ann Karring
 
-testing
-
 <table>
   <tr>
     <td>Academic title</td>
