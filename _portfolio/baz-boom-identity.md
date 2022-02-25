@@ -1,5 +1,6 @@
 ---
 title: "Baz Boom Identity"
+date: 2022-02-13
 excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
 header:
   image: /assets/images/Hanni1.jpg

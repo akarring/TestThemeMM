@@ -1,5 +1,6 @@
 ---
 title: "Foo Bar Identity"
+date: 2022-02-02
 excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
 header:
   image: /assets/images/Hanni2.jpg
