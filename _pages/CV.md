@@ -6,7 +6,6 @@ values:
   author_profile: true
 toc: true
 toc_label: "Table of Contents"
-toc_icon: "cog"
 ---
 
 ## Ann Karring
@@ -37,8 +36,8 @@ toc_icon: "cog"
 
 <table style="width: 100%">
   <colgroup>
-    <col span="1" style="width: 20%;">
-    <col span="1" style="width: 80%;">
+    <col span="1" style="width: 15%;">
+    <col span="1" style="width: 85%;">
   </colgroup>
   <tr>
     <td>SEP 2015<br>-<br>JUN 2018</td>
@@ -60,7 +59,11 @@ toc_icon: "cog"
 
 ## Work Experience
 
-<table>
+<table style="width: 100%">
+  <colgroup>
+    <col span="1" style="width: 15%;">
+    <col span="1" style="width: 85%;">
+  </colgroup>
   <tr>
     <td>JAN -<br>JUN 2017,<br>JAN -<br>JUN 2018,<br>JAN -<br>JUN 2019 &<br>JAN -<br>JUN 2020</td>
     <td>TEACHERS ASSISTANT IN AESTHETIC PROGRAMMING<ul><li>Teachers assistant for the course Aesthetic Programming at Aarhus University under associate professor Winnie Soon</li><li>Tasks included: Teaching programming in P5.js from different conceptual perspectives within digital aesthetics as well as helping students with their programming assignments</li></ul></td>
@@ -76,6 +79,10 @@ toc_icon: "cog"
   <tr>
     <td>AUG 2020<br>- NOW</td>
     <td>RESEARCH ASSISTANT AT AARHUS UNIVERSITY UNDER THE INSTITUTE OF COMMUNICATION AND CULTURE<ul><li>Planning and teaching courses taught at Aarhus University</li><li>Fall 2020 - Interaction technologies: Teaching students to describe, analyze and reflect on digital interaction technologies and -paradigms through theory- and practicebased methods</li><li>Spring 2021 and Spring 2022 - User-Driven Design: Teaching students in the process of designing digital products, especially focusing on the inclusion of users in the design process.</li><li>Fall 2021 - Design as a Critical Practice: </li><li>Fall 2021 - Surveillance Culture: </li></ul></td>
+  </tr>
+  <tr>
+    <td>FEB 2022<br>- NOW</td>
+    <td>MIDDLE MANAGER AT DD LAB</td>
   </tr>
 </table>
 
