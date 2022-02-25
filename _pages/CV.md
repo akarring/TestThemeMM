@@ -1,11 +1,12 @@
 ---
 permalink: /CV/
-title: "CV"
+title: "Curriculum Vitae"
 values:
   layout: single
   author_profile: true
 toc: true
 toc_label: "Table of Contents"
+toc_sticky: false
 ---
 
 ## Ann Karring
