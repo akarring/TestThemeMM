@@ -2,12 +2,12 @@
 title: "Ann Karring's Portfolio"
 layout: splash
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/HanniWide.jpg
-  actions:
-    - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
+  overlay_color: "#00adb5"
+  #overlay_filter: "0.5"
+  #overlay_image: /assets/images/HanniWide.jpg
+#  actions:
+#    - label: "Download"
+#      url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: [**DKK**](https://www.dkk.dk/om-dkk/medarbejdere/vilhelmsborg)"
 excerpt: "Ann Karring. Hi and welcome to my online Portfolio"
 intro:
