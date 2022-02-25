@@ -4,7 +4,18 @@ title: "CV"
 values:
   layout: single
   author_profile: true
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
 ---
+<!-- TOC titleSize:2 tabSpaces:2 depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 skip:0 title:1 charForUnorderedList:* -->
+## Table of Contents
+* [Ann Karring](#ann-karring)
+* [Profile](#profile)
+* [Education](#education)
+* [Work Experience](#work-experience)
+* [Private](#private)
+<!-- /TOC -->
 
 ## Ann Karring
 
@@ -55,16 +66,20 @@ values:
 
 <table>
   <tr>
-    <td>Academic title</td>
-    <td>Cand.IT Digital Design</td>
+    <td>JAN -<br>JUN 2017,<br>JAN -<br>JUN 2018,<br>JAN -<br>JUN 2019 &<br>JAN -<br>JUN 2020</td>
+    <td>TEACHERS ASSISTANT IN AESTHETIC PROGRAMMING<ul><li>Teachers assistant for the course Aesthetic Programming at Aarhus University under associate professor Winnie Soon</li><li>Tasks included: Teaching programming in P5.js from different conceptual perspectives within digital aesthetics as well as helping students with their programming assignments</li></ul></td>
   </tr>
   <tr>
-    <td>Adresse</td>
-    <td>Marinavej 8</br>8660 Skanderborg</br>Denmark</td>
+    <td>APR 2017<br>-<br>JUL 2020</td>
+    <td>STUDENT PROGRAMMER IN DD LAB<ul><li>Working as a student programmer in Aarhus University's Digital Design Lab</li><li>Responsibilities: Website, shopping for materials, workshop and tools, CNC-machines, such as X-carve and Carvey</li><li>Tasks: Helping students with their prototypes and projects as well as testing and documenting new technologies in the lab</li></ul></td>
   </tr>
   <tr>
-    <td>Tlf.</td>
-    <td>22261052</td>
+    <td>AUG<br>-<br>DEC 2019</td>
+    <td>INTERNSHIP AT THE BUSINESS MEDIA FINANS AT JYLLANDSPOSTEN<ul><li>Internship during my master degree</li><li>My tasks included: Product development, business development, business controlling and customer administration</li></ul></td>
+  </tr>
+  <tr>
+    <td>AUG 2020<br>- NOW</td>
+    <td>RESEARCH ASSISTANT AT AARHUS UNIVERSITY UNDER THE INSTITUTE OF COMMUNICATION AND CULTURE<UL><IL></td>
   </tr>
   <tr>
     <td>E-mail</td>

@@ -1,9 +1,9 @@
 ---
 permalink: /projects/
 title: "Projects"
-values:
-  layout: single
-  author_profile: true
+layout: collection
+collection: portfolio
+entries:layout: grid
 ---
 
 Ann Karring
