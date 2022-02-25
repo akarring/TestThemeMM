@@ -8,14 +8,6 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
-<!-- TOC titleSize:2 tabSpaces:2 depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 skip:0 title:1 charForUnorderedList:* -->
-## Table of Contents
-* [Ann Karring](#ann-karring)
-* [Profile](#profile)
-* [Education](#education)
-* [Work Experience](#work-experience)
-* [Private](#private)
-<!-- /TOC -->
 
 ## Ann Karring
 
@@ -79,11 +71,7 @@ toc_icon: "cog"
   </tr>
   <tr>
     <td>AUG 2020<br>- NOW</td>
-    <td>RESEARCH ASSISTANT AT AARHUS UNIVERSITY UNDER THE INSTITUTE OF COMMUNICATION AND CULTURE<UL><IL></td>
-  </tr>
-  <tr>
-    <td>E-mail</td>
-    <td><a href="mailto:a.karring@gmail.com">a.karring@gmail.com</a></td>
+    <td>RESEARCH ASSISTANT AT AARHUS UNIVERSITY UNDER THE INSTITUTE OF COMMUNICATION AND CULTURE<ul><li>Planning and teaching courses taught at Aarhus University</li><li>Fall 2020 - Interaction technologies: Teaching students to describe, analyze and reflect on digital interaction technologies and -paradigms through theory- and practicebased methods</li><li>Spring 2021 and Spring 2022 - User-Driven Design: Teaching students in the process of designing digital products, especially focusing on the inclusion of users in the design process.</li><li>Fall 2021 - Design as a Critical Practice: </li><li>Fall 2021 - Surveillance Culture: </li></ul></td>
   </tr>
 </table>
 

@@ -5,5 +5,3 @@ layout: collection
 collection: portfolio
 entries:layout: grid
 ---
-
-Ann Karring
