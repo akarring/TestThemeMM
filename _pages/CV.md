@@ -6,4 +6,12 @@ values:
   author_profile: true
 ---
 
-Ann Karring
+## Ann Karring
+|Adresse: |Marinavej 8 |
+|----|---|
+| |8660 Skanderborg|
+| |Denmark|
+|Tlf.:|22261052|
+|E-mail:|[a.karring@gmail.com](mailto:a.karring@gmail.com)|
+
+## Profile
