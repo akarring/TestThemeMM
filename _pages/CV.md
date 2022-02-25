@@ -52,7 +52,7 @@ toc_label: "Table of Contents"
     <td>MASTER DEGREE IN DIGITAL DESIGN<ul><li>Finished my master degree in Digital Design from Aarhus University</li><li>The education included: Digital Culture, advanced interaction design, design as a critical practice, research-based knowledge development and an internship</li><li>My master thesis dealt with the demographic bias in biometric technology</li></ul></td>
   </tr>
   <tr>
-    <td>AUG<br>-<br>DEC 2019</td>
+    <td>AUG - DEC<br>2019</td>
     <td>INTERNSHIP AT THE BUSINESS MEDIA FINANS AT JYLLANDSPOSTEN<ul><li>Internship during my master degree</li><li>My tasks included: Product development, business development, business controlling and customer administration</li></ul></td>
   </tr>
 </table>
@@ -65,7 +65,7 @@ toc_label: "Table of Contents"
     <col span="1" style="width: 85%;">
   </colgroup>
   <tr>
-    <td>JAN -<br>JUN 2017,<br>JAN -<br>JUN 2018,<br>JAN -<br>JUN 2019 &<br>JAN -<br>JUN 2020</td>
+    <td>JAN - JUN<br>2017,<br>JAN - JUN<br>2018,<br>JAN - JUN<br>2019 &<br>JAN - JUN<br>2020</td>
     <td>TEACHERS ASSISTANT IN AESTHETIC PROGRAMMING<ul><li>Teachers assistant for the course Aesthetic Programming at Aarhus University under associate professor Winnie Soon</li><li>Tasks included: Teaching programming in P5.js from different conceptual perspectives within digital aesthetics as well as helping students with their programming assignments</li></ul></td>
   </tr>
   <tr>
@@ -73,7 +73,7 @@ toc_label: "Table of Contents"
     <td>STUDENT PROGRAMMER IN DD LAB<ul><li>Working as a student programmer in Aarhus University's Digital Design Lab</li><li>Responsibilities: Website, shopping for materials, workshop and tools, CNC-machines, such as X-carve and Carvey</li><li>Tasks: Helping students with their prototypes and projects as well as testing and documenting new technologies in the lab</li></ul></td>
   </tr>
   <tr>
-    <td>AUG<br>-<br>DEC 2019</td>
+    <td>AUG - DEC<br>2019</td>
     <td>INTERNSHIP AT THE BUSINESS MEDIA FINANS AT JYLLANDSPOSTEN<ul><li>Internship during my master degree</li><li>My tasks included: Product development, business development, business controlling and customer administration</li></ul></td>
   </tr>
   <tr>
