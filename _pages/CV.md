@@ -35,22 +35,26 @@ toc_icon: "cog"
 
 ## Education
 
-<table width="100 %"">
+<table style="width: 100%">
+  <colgroup>
+    <col span="1" style="width: 20%;">
+    <col span="1" style="width: 80%;">
+  </colgroup>
   <tr>
-    <td width="25%">SEP 2015<br>-<br>JUN 2018</td>
-    <td width="75%">BACHELOR DEGREE IN DIGITAL DESIGN<ul><li>Finished my bachelor degree in Digital Design - IT, aesthetics and interaction from Aarhus University</li><li>The education included: Product design, design processes, aestehetic programming, interaction design, creativity in design and art, software studies, digital aesthetics and communicating (in) the city</li></ul></td>
+    <td>SEP 2015<br>-<br>JUN 2018</td>
+    <td>BACHELOR DEGREE IN DIGITAL DESIGN<ul><li>Finished my bachelor degree in Digital Design - IT, aesthetics and interaction from Aarhus University</li><li>The education included: Product design, design processes, aestehetic programming, interaction design, creativity in design and art, software studies, digital aesthetics and communicating (in) the city</li></ul></td>
   </tr>
   <tr>
-    <td width="25%">AUG 2017<br>-<br>JUN 2018</td>
-    <td width="75%">SELECTIVECOURSES IN COMPUTER SCIENCE<ul><li>Took selected courses in computer science from Aarhus University (1.5 terms)</li><li>The selective courses included: Introduction to Java programming, introduction to databases, fundamental algorithms and data structures, calculus and programming languages</li></ul></td>
+    <td>AUG 2017<br>-<br>JUN 2018</td>
+    <td>SELECTIVECOURSES IN COMPUTER SCIENCE<ul><li>Took selected courses in computer science from Aarhus University (1.5 terms)</li><li>The selective courses included: Introduction to Java programming, introduction to databases, fundamental algorithms and data structures, calculus and programming languages</li></ul></td>
   </tr>
   <tr>
-    <td width="25%">SEP 2018<br>-<br>JUL 2020</td>
-    <td width="75%">MASTER DEGREE IN DIGITAL DESIGN<ul><li>Finished my master degree in Digital Design from Aarhus University</li><li>The education included: Digital Culture, advanced interaction design, design as a critical practice, research-based knowledge development and an internship</li><li>My master thesis dealt with the demographic bias in biometric technology</li></ul></td>
+    <td>SEP 2018<br>-<br>JUL 2020</td>
+    <td>MASTER DEGREE IN DIGITAL DESIGN<ul><li>Finished my master degree in Digital Design from Aarhus University</li><li>The education included: Digital Culture, advanced interaction design, design as a critical practice, research-based knowledge development and an internship</li><li>My master thesis dealt with the demographic bias in biometric technology</li></ul></td>
   </tr>
   <tr>
-    <td width="25%">AUG<br>-<br>DEC 2019</td>
-    <td width="75%">INTERNSHIP AT THE BUSINESS MEDIA FINANS AT JYLLANDSPOSTEN<ul><li>Internship during my master degree</li><li>My tasks included: Product development, business development, business controlling and customer administration</li></ul></td>
+    <td>AUG<br>-<br>DEC 2019</td>
+    <td>INTERNSHIP AT THE BUSINESS MEDIA FINANS AT JYLLANDSPOSTEN<ul><li>Internship during my master degree</li><li>My tasks included: Product development, business development, business controlling and customer administration</li></ul></td>
   </tr>
 </table>
 
