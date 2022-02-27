@@ -114,6 +114,14 @@ defaults:
       layout: single
       author_profile: false
       share: true
+  # pets
+  - scope:
+      path: "_pets"
+      type: pets
+    values:
+      layout: single
+      author_profile: false
+      share: true
 
 
 
@@ -126,5 +134,8 @@ tag_archive:
 
 collections:
   portfolio:
+    output: true
+    permalink: /:collection/:path/
+  pets:
     output: true
     permalink: /:collection/:path/
