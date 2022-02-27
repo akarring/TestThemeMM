@@ -15,6 +15,9 @@ author_profile: false
     <section class="taxonomy__section">
       {% capture label %}{{ collection.label }}{% endcapture %}
       {% if label != written_label %}
+        {% if label.includes("-") %}
+          {% label = label.replace("-"," ") %}
+        {% endif %}
         <h2 id="{{ label | slugify }}" class="archive__subtitle" style="text-transform:capitalize;">{{ label }}</h2>
         {% capture written_label %}{{ label }}{% endcapture %}
       {% endif %}
