@@ -125,7 +125,7 @@ defaults:
   # _software
   - scope:
       path: "_interaction-design"
-      type: interaction-design
+      type: interaction design
     values:
       layout: single
       author_profile: true
@@ -155,7 +155,7 @@ collections:
   software:
     output: true
     permalink: /:collection/:path/
-  interaction-design:
+  interaction design:
     output: true
     permalink: /:collection/:path/
   pets:
