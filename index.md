@@ -1,6 +1,6 @@
 ---
 title: "Ann Karring's Portfolio"
-layout: splash
+layout: single
 header:
   overlay_color: "#00adb5"
   #overlay_filter: "0.5"
@@ -8,7 +8,7 @@ header:
 #  actions:
 #    - label: "Download"
 #      url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**DKK**](https://www.dkk.dk/om-dkk/medarbejdere/vilhelmsborg)"
+#  caption: "Photo credit: [**DKK**](https://www.dkk.dk/om-dkk/medarbejdere/vilhelmsborg)"
 excerpt: "Ann Karring. Hi and welcome to my online Portfolio"
 intro:
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
