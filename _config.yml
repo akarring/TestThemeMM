@@ -109,7 +109,7 @@ defaults:
   # _workshops
   - scope:
       path: "_workshops"
-      type: Workshops
+      type: workshops
     values:
       layout: single
       author_profile: true
@@ -133,7 +133,7 @@ tag_archive:
   path: /tags/
 
 collections:
-  portfolio:
+  workshops:
     output: true
     permalink: /:collection/:path/
   pets:
