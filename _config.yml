@@ -106,15 +106,15 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _portfolio
+  # _workshops
   - scope:
-      path: "_portfolio"
-      type: portfolio
+      path: "_workshops"
+      type: Workshops
     values:
       layout: single
       author_profile: true
       share: true
-  # pets
+  # _pets
   - scope:
       path: "_pets"
       type: pets

@@ -1,8 +1,8 @@
 ---
-title: Portfolio
+title: Workshops
 layout: collection
-permalink: /portfolio/
-collection: portfolio
+permalink: /projects/workshops/
+collection: Workshops
 entries_layout: grid
 classes: wide
 ---
