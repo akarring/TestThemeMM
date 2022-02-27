@@ -4,7 +4,7 @@ title: "Posts by Collection (grid view)"
 permalink: /projects/
 entries_layout: grid
 classes: wide
-author_profile: true
+author_profile: false
 ---
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
@@ -15,7 +15,7 @@ author_profile: true
     <section class="taxonomy__section">
       {% capture label %}{{ collection.label }}{% endcapture %}
       {% if label != written_label %}
-        <h2 id="{{ label | slugify }}" class="archive__subtitle">{{ label }}</h2>
+        <h2 id="{{ label | slugify }}" class="archive__subtitle" style="text-transform:capitalize;">{{ label }}</h2>
         {% capture written_label %}{{ label }}{% endcapture %}
       {% endif %}
       <div class="entries-{{ entries_layout }}">
