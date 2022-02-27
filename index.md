@@ -1,6 +1,7 @@
 ---
 title: "Ann Karring's Portfolio"
 layout: single
+author_profile: true
 header:
   overlay_color: "#00adb5"
   #overlay_filter: "0.5"
