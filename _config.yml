@@ -114,6 +114,14 @@ defaults:
       layout: single
       author_profile: true
       share: true
+    # _workshops
+    - scope:
+        path: "_software"
+        type: software
+      values:
+        layout: single
+        author_profile: true
+        share: true
   # _pets
   - scope:
       path: "_pets"
@@ -134,6 +142,9 @@ tag_archive:
 
 collections:
   workshops:
+    output: true
+    permalink: /:collection/:path/
+  software:
     output: true
     permalink: /:collection/:path/
   pets:
