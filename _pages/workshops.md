@@ -2,7 +2,7 @@
 title: Workshops
 layout: collection
 permalink: /projects/workshops/
-collection: Workshops
+collection: workshops
 entries_layout: grid
 classes: wide
 ---
