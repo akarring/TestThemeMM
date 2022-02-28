@@ -130,6 +130,14 @@ defaults:
       layout: single
       author_profile: true
       share: true
+  # _research
+  - scope:
+      path: "_research"
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
   # _pets
   - scope:
       path: "_pets"
@@ -156,6 +164,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   prototypes:
+    output: true
+    permalink: /:collection/:path/
+  research:
     output: true
     permalink: /:collection/:path/
   pets:
