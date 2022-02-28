@@ -13,3 +13,16 @@ main:
     url: /CV/
   - title: "About"
     url: /about/
+projectnav:
+  - title: "All"
+    url: /projects/
+  - title: "Events"
+    url: /projects/events/
+  - title: "Prototypes"
+    url: /projects/prototypes/
+  - title: "Software"
+    url: /projects/software/
+  - title: "Teaching"
+    url: /projects/teaching/
+  - title: "Workshops"
+    url: /projects/workshops/
