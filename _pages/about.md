@@ -6,7 +6,7 @@ feature_row2:
   - image_path: /assets/images/bio-photo.jpg
     alt: "Ann Karring"
     title: "Hi! My name is Ann Karring."
-    excerpt: "Cand.IT, Digital Design, 26 years old and currently working as a research assistant at Aarhus University which I have done since August 2020 as well as working as a middle manager of Aarhus University's [Digital Design Lab](https://ddlab.au.dk/) (DD Lab) since February 2022."
+    excerpt: "Cand.IT, Digital Design, 26 years old and currently working as a research assistant at Aarhus University, which I have done since August 2020 as well as working as a middle manager of Aarhus University's [Digital Design Lab](https://ddlab.au.dk/) (DD Lab) since February 2022."
 #    url: "#test-link"
 #    btn_label: "Read More"
 #    btn_class: "btn--primary"
@@ -16,11 +16,11 @@ feature_row2:
 
 I have a master's degree in Digital Design at Aarhus University(2018-2020), where I wrote my master thesis on demographic bias in biometric technology, and during my masters, I did an internship at Jyllands-Posten as a product developer for the business media FINANS.
 
-I am proficient in the following coding languages: Java, Processing (based on Java), JavaScript and p5.js (based on JavaScript).
-I also have experience with programming in HTML, Scala and C#.
+I am proficient in the following coding languages: **Java, Processing** (based on Java), **JavaScript** and **p5.js** (based on JavaScript).
+I also have experience with programming in **HTML, Scala** and **C#**.
 
-I am experienced in 3D modeling in: Fusion 360 and Maya, both provided by Autodesk.
+I am experienced in 3D modeling in: **Fusion 360** and **Maya**, both provided by Autodesk.
 
-I have experience with using the following graphic, film, and wireframing tools: Adobe Illustrator, Adobe XD, Adobe InDesign, Adobe Premiere Pro, Figma, Vue.js and Axure.
+I have experience with using the following graphic, film, and wireframing tools: **Adobe Illustrator, Adobe XD, Adobe InDesign, Adobe Premiere Pro, Unity, Figma, Vue.js** and **Axure**.
 
-I am proficient in speaking and reading Danish, English, and German.
+I am proficient in speaking and reading **Danish, English, and German**.
