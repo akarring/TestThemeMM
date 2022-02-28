@@ -5,4 +5,6 @@ permalink: /projects/workshops/
 collection: workshops
 entries_layout: grid
 classes: wide
+sidebar:
+  nav: "projectnav"
 ---

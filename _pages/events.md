@@ -5,4 +5,6 @@ permalink: /projects/events/
 collection: events
 entries_layout: grid
 classes: wide
+sidebar:
+  nav: "projectnav"
 ---

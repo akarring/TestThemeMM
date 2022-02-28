@@ -112,7 +112,7 @@ defaults:
       type: workshops
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
   # _software
   - scope:
@@ -120,7 +120,7 @@ defaults:
       type: software
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
   # _prototypes
   - scope:
@@ -128,7 +128,7 @@ defaults:
       type: prototypes
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
   # _teaching
   - scope:
@@ -136,7 +136,7 @@ defaults:
       type: teaching
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
   # _events
   - scope:
@@ -144,7 +144,7 @@ defaults:
       type: events
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
 
 

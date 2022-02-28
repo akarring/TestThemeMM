@@ -5,4 +5,6 @@ permalink: /projects/teaching/
 collection: teaching
 entries_layout: grid
 classes: wide
+sidebar:
+  nav: "projectnav"
 ---
