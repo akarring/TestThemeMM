@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me"
 author_profile: false
 feature_row2:
   - image_path: /assets/images/bio-photo.jpg
