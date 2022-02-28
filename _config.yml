@@ -146,10 +146,10 @@ defaults:
       layout: single
       author_profile: true
       share: true
-  # _pets
+  # _events
   - scope:
-      path: "_pets"
-      type: pets
+      path: "_events"
+      type: events
     values:
       layout: single
       author_profile: true
@@ -180,6 +180,6 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  pets:
+  events:
     output: true
     permalink: /:collection/:path/
