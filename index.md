@@ -1,8 +1,8 @@
 ---
 title: "Ann Karring's Portfolio"
 layout: single
-author_profile: false
-# classes: wide
+author_profile: true
+classes: wide
 header:
   overlay_color: "#333"
   overlay_filter: "0.7"
@@ -31,6 +31,9 @@ feature_row:
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
+
+{% include nav_list nav="main" %}
+
 
 <!-- {% include feature_row id="intro" type="center" %} -->
 
