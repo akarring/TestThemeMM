@@ -2,7 +2,7 @@
 title: "Ann Karring's Portfolio"
 layout: single
 author_profile: false
-classes: wide
+# classes: wide
 header:
   overlay_color: "#333"
   overlay_filter: "0.7"
