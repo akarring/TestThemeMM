@@ -5,8 +5,8 @@ author_profile: true
 classes: wide
 header:
   overlay_color: "#00adb5"
-  #overlay_filter: "0.5"
-  #overlay_image: /assets/images/HanniWide.jpg
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/portfoliobanner.png
 #  actions:
 #    - label: "Download"
 #      url: "https://github.com/mmistakes/minimal-mistakes/"
