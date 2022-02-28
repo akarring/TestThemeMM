@@ -4,14 +4,14 @@ layout: single
 author_profile: true
 classes: wide
 header:
-  overlay_color: "#00adb5"
-  overlay_filter: "0.5"
+  overlay_color: "#333"
+  overlay_filter: "0.8"
   overlay_image: /assets/images/portfoliobanner.png
 #  actions:
 #    - label: "Download"
 #      url: "https://github.com/mmistakes/minimal-mistakes/"
 #  caption: "Photo credit: [**DKK**](https://www.dkk.dk/om-dkk/medarbejdere/vilhelmsborg)"
-excerpt: "Ann Karring. Hi and welcome to my online Portfolio"
+excerpt: "Hi and Welcome to my Online Portfolio"
 intro:
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
