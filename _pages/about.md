@@ -7,9 +7,9 @@ feature_row2:
     alt: "Ann Karring"
     title: "Hi! My name is Ann Karring."
     excerpt: "Cand.IT, Digital Design, 26 years old and currently working as a research assistant at Aarhus University, which I have done since August 2020 as well as working as a middle manager of Aarhus University's [Digital Design Lab](https://ddlab.au.dk/) (DD Lab) since February 2022."
-#    url: "#test-link"
-#    btn_label: "Read More"
-#    btn_class: "btn--primary"
+    url: "mailto:a.karring@gmail.com"
+    btn_label: "email"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="feature_row2" type="left" %}
@@ -24,3 +24,5 @@ I am experienced in 3D modeling in: **Fusion 360** and **Maya**, both provided b
 I have experience with using the following graphic, film, and wireframing tools: **Adobe Illustrator, Adobe XD, Adobe InDesign, Adobe Premiere Pro, Unity, Figma, Vue.js** and **Axure**.
 
 I am proficient in speaking and reading **Danish, English, and German**.
+
+<a href="email" class="btn btn--primary">Click here to send me an email</a>
