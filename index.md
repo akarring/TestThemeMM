@@ -5,7 +5,7 @@ author_profile: true
 classes: wide
 header:
   overlay_color: "#333"
-  overlay_filter: "0.8"
+  overlay_filter: "0.7"
   overlay_image: /assets/images/portfoliobanner.png
 #  actions:
 #    - label: "Download"

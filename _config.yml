@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Ann Karring"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "This is me Test"
+  bio    : "Cand.IT Digital Design with a passion for product development and communication."
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
@@ -71,9 +71,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/RaggedyAnn/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/nonhumann95/"
 
 footer:
   links:
@@ -83,9 +80,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/RaggedyAnn/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/nonhumann95/"
 
 defaults:
   # _posts
