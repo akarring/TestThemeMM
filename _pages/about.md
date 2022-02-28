@@ -22,4 +22,4 @@ I have experience with using the following graphic, film, and wireframing tools:
 
 I am proficient in speaking and reading **Danish, English, and German**.
 
-[Click here to send me an email](mailto:a.karring@gmail.com){: .btn .btn--primary}
+[Click here to send me an e-mail](mailto:a.karring@gmail.com){: .btn .btn--primary .btn--large}
