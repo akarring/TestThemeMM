@@ -32,7 +32,7 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
-{% include nav_list nav="mainplus" %}
+{% include nav_list nav="main" %}
 
 
 <!-- {% include feature_row id="intro" type="center" %} -->
